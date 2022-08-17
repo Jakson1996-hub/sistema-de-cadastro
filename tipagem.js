@@ -19,18 +19,20 @@
 // // // console.log(chanceFechamento)
 
 
-let question1 = "false";
-let question2 = "false";
-let question3 = "true";
-let concatQuestions = (question1+question2+question3).length
-let curva;
+// let question1 = "false";
+// let question2 = "false";
+// let question3 = "true";
+// let concatQuestions = (question1+question2+question3).length
+// let curva;
 
-if (concatQuestions == 15){ curva =="A"}
+// if (concatQuestions == 15){ curva =="A"}
  
-else if (concatQuestions == 14 )
-   {curva ==="B"}
-else if (concatQuestions == 13)
-   {curva == "C"}
-else
-{curva == ""}   
-console.log(curva)
+// else if (concatQuestions == 14 )
+//    {curva ==="B"}
+// else if (concatQuestions == 13)
+//    {curva == "C"}
+// else
+// {curva == ""}   
+// console.log(curva)
+
+//var minhaVar = 1
